@@ -1,0 +1,3 @@
+rootProject.name = "FeatureComponentTest"
+include ':app'
+include ':feature1'
